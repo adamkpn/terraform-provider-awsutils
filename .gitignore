@@ -46,3 +46,6 @@ docs/terraform.md
 # nix files
 .envrc
 .direnv/
+
+# Infracost
+.infracost/
